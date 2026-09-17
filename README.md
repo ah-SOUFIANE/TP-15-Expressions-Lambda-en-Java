@@ -309,7 +309,7 @@ TP15_Lambdas/
 
 Une seule vidéo montre l'exécution des 17 étapes, dans l'ordre.
 
-[Voir la démo vidéo](videos/demo.mp4)
+https://github.com/user-attachments/assets/4152b003-a3cf-49e5-bc22-5b67b5b40d58
 
 ## Auteur
 
